@@ -1,0 +1,11 @@
+# Environments
+venv/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# XAMPP/OS files (just in case)
+.DS_Store
+Thumbs.db
